@@ -5,9 +5,9 @@
 
 name   | link 
 - - -  |- - - 
-read01 | [Mindset growth](https://alaa1355.github.io/reading-notes/read01.md)
-read02 |[Git information](https://alaa1355.github.io/reading-notes/read02)
-read03 |[ch 18 Js](https://alaa1355.github.io/reading-notes/read03)
-read04 |[ch 1 Js](https://alaa1355.github.io/reading-notes/read04)
-read05 |[Js loops and conditions](https://alaa1355.github.io/reading-notes/read05.md)
+read01 | [Mindset growth]()
+read02 |[Git information]()
+read03 |[ch 18 Js]()
+read04 |[ch 1 Js]()
+read05 |[Js loops and conditions]()
 
