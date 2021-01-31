@@ -1,7 +1,7 @@
 functions is A method of a block of code which only runs when it is called.
 
 You can pass data, known as parameters, into a method.
-< img src="66.png">
+![](66.png)
   
 
 1. CSS treats each HTML element as if it appears inside
