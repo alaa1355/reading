@@ -23,7 +23,7 @@ property sets the choice of font, and the value arial
 specifies Arial as the preferred typeface.
 4. CSS rules usually appear in a separate document,
 although they may appear within an HTML page.
-
-  < img src="6.png">
+![](6.png)
+  
 
 
