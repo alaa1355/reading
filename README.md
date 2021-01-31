@@ -5,7 +5,7 @@
 
 name   | link 
 ------ | -----
-read01 |[Mindset growth](1.md)
+read01 |[introduction to myself](1.md)
 read02 |[Mindset growth](lab02a.md)
 read03 |[ch 18 Js](3.md)
 read04 |[ch 1 Js](4.md)
