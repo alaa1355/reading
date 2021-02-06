@@ -3,8 +3,11 @@
 ### Software Development courses.          
 ####  "Group Yahya"
 <!-- <span style="display:block;text-align:center" width="350">![Test Automation](11.jpg)</span> -->
-<img align="right" width="300" src="11.jpg">
-
+<!-- <img align="right" width="300" src="11.jpg"> -->
+<p align="right" width="100%">
+    This text is also aligned to the right.<br>
+    <img width="33%" src="11.jpg"> 
+</p>
 
 ##### 102
 name   | URL (102)                                                   
