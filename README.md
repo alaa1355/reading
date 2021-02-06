@@ -1,10 +1,13 @@
 
-## We will find the correct method later, now we will try all the ***wrong options.***
+## We will find the correct method later, now we will try all the ***wrong options.***  
+
+<img align="right" width="33%" src="11.jpg"> 
+
 ### Software Development courses.          
 ####  "Group Yahya"
 
 ##### 102
-name   | URL (102)                       |  <img align="right" width="40%" src="11.jpg">                    
+name   | URL (102)                                          
 ------ | -----                                                                          
 read01 |[introduction to myself](1.md)                                                 
 read02 |[Mindset growth](22.md)                                                         
