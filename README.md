@@ -7,7 +7,7 @@
 ####  " Yahya group"
 
 ##### 102
-| name   | URL (102)                        |
+| name   | URL (102)                        |                    
 |--------|----------------------------------|
 | read01 | [introduction to myself](1.md)   |
 | read02 | [Mindset growth](22.md)          |
@@ -15,6 +15,7 @@
 | read04 | [ch 1 Js](4.md)                  |
 | read05 | [Js loops and conditions](55.md) |
 | read06 | [function and css](06read.md)    |
+
 
 ##### 201 
 | name   | URL (201)      |
@@ -35,10 +36,4 @@
 | read11 | [](.md)        |
 | read12 | [](.md)        |
 
-     name     |        URL (102)
-------------- | -----------------------------
-    read01    | [introduction to myself](1.md)
-    read01    | [Mindset growth](22.md)
-    read01    | [ch 18 Js](3.md)
-    read01    | [Js loops and conditions](55.md)
-    read01    | [function and css](06read.md)
+
