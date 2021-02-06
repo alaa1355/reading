@@ -3,7 +3,7 @@
 ### Software Development courses.          
 ####  "Group Yahya"
 <!-- <span style="display:block;text-align:center" width="350">![Test Automation](11.jpg)</span> -->
-<img align="right" width="300" height="50" src="11.jpg">
+<img align="right" width="300" src="11.jpg">
 
 
 ##### 102
