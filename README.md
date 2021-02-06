@@ -6,7 +6,7 @@
 <!-- <img align="right" width="300" src="11.jpg"> -->
 <p align="right" width="100%">
     This text is also aligned to the right.<br>
-    <img width="33%" src="11.jpg"> 
+    <img width="50%" src="11.jpg"> 
 </p>
 
 ##### 102
