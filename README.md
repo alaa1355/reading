@@ -1,6 +1,6 @@
 
 ## We will find the correct method later, now we will try all the ***wrong options.***
-### Software Development courses.          ![](11.jpg = 50x10)                                   
+### Software Development courses.          ![](.11.jpg = 250x)                                   
 ####  "Group Yahya"
 
 ##### 102
