@@ -1,7 +1,8 @@
 
 ## We will find the correct method later, now we will try all the ***wrong options.***
 ### Software Development courses.          
-                                 ![](11.jpg?style=centerme){:height="300px" width="300px"}.                                
+                                 <!-- ![](11.jpg){:height="300px" width="300px"}.                                 -->
+                                 ![](11.jpg/200/300?style=centerme)
 ####  "Group Yahya"
 
 ##### 102
