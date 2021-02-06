@@ -1,7 +1,7 @@
 
 ## We will find the correct method later, now we will try all the ***wrong options.***
 ### Software Development courses.          
- ![](11.jpg){:height="50px" width="50px"}.                                
+                                                                  ![](11.jpg){:height="100px" width="100px"}.                                
 ####  "Group Yahya"
 
 ##### 102
