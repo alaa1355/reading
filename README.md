@@ -5,8 +5,8 @@
 <!-- <span style="display:block;text-align:center" width="350">![Test Automation](11.jpg)</span> -->
 <!-- <img align="right" width="300" src="11.jpg"> -->
 <p align="right" width="50%">
-    This text is also aligned to the right.<br>
-    <img width="20%" src="11.jpg"> 
+    <br>
+    <img width="40%" src="11.jpg"> 
 </p>
 
 ##### 102
