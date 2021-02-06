@@ -2,15 +2,9 @@
 ## We will find the correct method later, now we will try all the ***wrong options.***
 ### Software Development courses.          
 ####  "Group Yahya"
-<!-- <span style="display:block;text-align:center" width="350">![Test Automation](11.jpg)</span> -->
-<!-- <img align="right" width="300" src="11.jpg"> -->
-<p align="right" width="50%">
-    <br>
-    <img width="33%" src="11.jpg"> 
-</p>
 
 ##### 102
-name   | URL (102)                       |  <img align="right" width="50%" src="11.jpg">                    
+name   | URL (102)                       |  <img align="right" width="60%" src="11.jpg">                    
 ------ | -----                           |                            
 read01 |[introduction to myself](1.md)   |                               
 read02 |[Mindset growth](22.md)          |                             
@@ -20,7 +14,6 @@ read05 |[Js loops and conditions](55.md) |
 read06 |[function and css](06read.md)    |                            
 
 ##### 201 
-
 name   | URL (201)                                                   
 ------ | -----                                                       
 read1  |[New rep](.md)                               
