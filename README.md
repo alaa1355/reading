@@ -10,10 +10,10 @@
 </p>
 
 ##### 102
-name   | URL (102)                       |     <p align="right" width="50%">                         
------- | -----                           |           <br>                  
-read01 |[introduction to myself](1.md)   |               <img width="33%" src="11.jpg">                
-read02 |[Mindset growth](22.md)          |         </p>                     
+name   | URL (102)                       |  <img align="right" width="300" src="11.jpg">                    
+------ | -----                           |                            
+read01 |[introduction to myself](1.md)   |                               
+read02 |[Mindset growth](22.md)          |                             
 read03 |[ch 18 Js](3.md)                 |                              
 read04 |[ch 1 Js](4.md)                  |                             
 read05 |[Js loops and conditions](55.md) |                           
