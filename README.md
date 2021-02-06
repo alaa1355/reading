@@ -35,8 +35,8 @@
 |read11  |[](.md)                             
 |read12  |[](.md)
 
-     name     | URL (102)
-------------- | -------------
+     name     |        URL (102)
+------------- | -----------------------------
     read01    | [introduction to myself](1.md)
     read01    | [Mindset growth](22.md)
     read01    | [ch 18 Js](3.md)
