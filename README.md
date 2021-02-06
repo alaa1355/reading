@@ -1,6 +1,7 @@
 
 ## We will find the correct method later, now we will try all the ***wrong options.***
-### Software Development courses.          ![](.11.jpg){ width=50% }                                
+### Software Development courses.          
+### ![](.11.jpg){width=50%}                                
 ####  "Group Yahya"
 
 ##### 102
