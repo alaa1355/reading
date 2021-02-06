@@ -1,11 +1,11 @@
 
 ## We will find the correct method later, now we will try all the ***wrong options.***
 ### Software Development courses.          
-                              
+
 
 |                                        |                                      |                                  |
 |----------------------------------------|--------------------------------------|----------------------------------|
-|   <img width="100%" src="11.jpg">      |                                      |                                  |
+|   <img width="30%" src="11.jpg">       |                                      |                                  |
 ####  "Group Yahya"
 ##### 102
 name   | URL (102)                                                   
