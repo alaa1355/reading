@@ -2,7 +2,7 @@
 ## We will find the correct method later, now we will try all the ***wrong options.***
 ### Software Development courses.          
 ####  "Group Yahya"
-<div style="text-align:right"><img width="200" src="11.jpg/"> </div>
+<span style="display:block;text-align:center" width="300">![Test Automation](11.jpg)</span>
 
 ##### 102
 name   | URL (102)                                                   
