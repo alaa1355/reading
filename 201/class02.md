@@ -1,3 +1,19 @@
+**HTML, CSS, &amp; JavaScript: A Tutorial**
+
+An overview:
+
+- **HTML ** provides the _basic structure_ of sites, which is enhanced and modified by other technologies like CSS and JavaScript.
+- **CSS**  is used to control _presentation, formatting, and layout_.
+- **JavaScript**  is used to control the _behavior_ of different elements.
+
+Now, let&#39;s go over each one individually to help you understand the roles each plays on a website and then we&#39;ll cover how they fit together. Let&#39;s start with good ol&#39; HTML.
+
+HTML
+
+HTML is at the core of every web page, regardless the complexity of a site or number of technologies involved. It&#39;s an essential skill for any web professional. It&#39;s the starting point for anyone learning how to create content for the web. And, luckily for us, it&#39;s surprisingly easy to learn.
+
+
+
 # html book (40-60)
 ## HTML pages are text documents.
 ## HTML uses tags to give the information they surround special meaning.
