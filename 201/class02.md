@@ -14,49 +14,80 @@ HTML is at the core of every web page, regardless the complexity of a site or nu
 
 
 
-# html book (40-60)
-## HTML pages are text documents.
-## HTML uses tags to give the information they surround special meaning.
-- In addition to defining individual parts of your page (such as "a paragraph" or "an image")
- 
-  - HTML also boasts a number of block level elements used to define areas of your website (such as "the header", "the navigation menu", - "the main content column").
+**HTML, CSS, &amp; JavaScript**
 
-  -  This article looks into how to plan a basic website structure, and write the HTML to represent this structure.
+An overview:
 
-## **Browsers display the contents of headings at different sizes. The
-## contents of an <h1> element is the largest, and the contents of an <h6> element is the smallest.
-## The exact size at which each browser shows the headings can vary slightly**
+- **HTML ** provides the _basic structure_ of sites, which is enhanced and modified by other technologies like CSS and JavaScript.
 
-#### To create a paragraph, surround the words that make up the paragraph with an opening <p> tag and closing </p> tag.
-#### By enclosing words in the tags <b> and </b> we can make characters appear bold.
-## The <sup> element is used to contain characters that should be superscript such as the suffixes of dates or
-- ***mathematical concepts like raising a number to a power such as 22***
-### To create a break between themes — such as a change of topic in a book or a new scene
-### in a play — you can add a .
-# Semantic Markup
-###### There are some text elements that are not intended to affect the structure of your web pages, but they do add extra information to the pages 
-1. <strong>
-2. <em>
-3. <blockquote> , <q>
-4. ### The <ins> element can be used to show content that has been inserted into a document, while
-### the <del> element can show text that has been deleted from it.
+HTML is at the core of every web page, regardless the complexity of a site or number of technologies involved. It&#39;s an essential skill for any web professional. It&#39;s the starting point for anyone learning how to create content for the web. And, luckily for us, it&#39;s surprisingly easy to learn.
 
-# The key to understanding how CSS works is to imagine that there is an invisible box around every HTML element.
-### . A CSS rulecontains two parts:
-1. a selector  
-2. declaration. CSS declarations sit inside curly brackets and each is made up of two parts: a property and a value, separated by a colon.
+# What is CSS?
 
-## page (245) in html book  typs of selectors
-# STATEMENTS
-A script is a series of instructions that a computer can follow one-by-one.
-Each individual instruction or step is known as a statement.
-Statements should end with a semicolon. 
+- **CSS**  stands for  **C** ascading  **S** tyle  **S** heets
+- CSS describes  **how HTML elements are to be displayed on screen, paper, or in other media**
+- CSS  **saves a lot of work**. It can control the layout of multiple web pages all at once
+- External stylesheets are stored in  **CSS files**
 
-<h3>You should write comments to explain what your code does.
-They help make your code easier to read and understand.
-This can help you and others who read your code <h3>
+##
+# Why Use CSS?
 
-# Here are six rules you must always follow when giving a variable a name: 
-1. ($) ,(-)
-<Arrays are special types of variables that store more
-than one piece of related information.
+CSS is used to define styles for your web pages, including the design, layout and variations in display for different devices and screen sizes.
+
+##
+# CSS Solved a Big Problem
+
+HTML was NEVER intended to contain tags for formatting a web page!
+
+HTML was created to  **describe the content**  of a web page, like:
+
+\&lt;h1\&gt;This is a heading\&lt;/h1\&gt;
+
+\&lt;p\&gt;This is a paragraph.\&lt;/p\&gt;
+
+When tags like \&lt;font\&gt;, and color attributes were added to the HTML 3.2 specification, it started a nightmare for web developers. Development of large websites, where fonts and color information were added to every single page, became a long and expensive process.
+
+To solve this problem, the World Wide Web Consortium (W3C) created CSS.
+
+CSS removed the style formatting from the HTML page!
+
+# An Introduction to JavaScript
+
+Let&#39;s see what&#39;s so special about JavaScript, what we can achieve with it, and what other technologies play well with it.
+
+## [What is JavaScript?](https://javascript.info/intro#what-is-javascript)
+
+_JavaScript_ was initially created to &quot;make web pages alive&quot;.
+
+The programs in this language are called _scripts_. They can be written right in a web page&#39;s HTML and run automatically as the page loads.
+
+Scripts are provided and executed as plain text. They don&#39;t need special preparation or compilation to run.
+
+In this aspect, JavaScript is very different from another language called [Java](https://en.wikipedia.org/wiki/Java_(programming_language)).
+
+**How do engines work?**
+
+Engines are complicated. But the basics are easy.
+
+1. The engine (embedded if it&#39;s a browser) reads (&quot;parses&quot;) the script.
+2. Then it converts (&quot;compiles&quot;) the script to the machine language.
+3. And then the machine code runs, pretty fast.
+
+The engine applies optimizations at each step of the process. It even watches the compiled script as it runs, analyzes the data that flows through it, and further optimizes the machine code based on that knowledge.
+
+[**What can in-browser JavaScript do?**](https://javascript.info/intro#what-can-in-browser-javascript-do)
+
+Modern JavaScript is a &quot;safe&quot; programming language. It does not provide low-level access to memory or CPU, because it was initially created for browsers which do not require it.
+
+JavaScript&#39;s capabilities greatly depend on the environment it&#39;s running in. For instance, [Node.js](https://wikipedia.org/wiki/Node.js) supports functions that allow JavaScript to read/write arbitrary files, perform network requests, etc.
+
+In-browser JavaScript can do everything related to webpage manipulation, interaction with the user, and the webserver.
+
+For instance, in-browser JavaScript is able to:
+
+- Add new HTML to the page, change the existing content, modify styles.
+- React to user actions, run on mouse clicks, pointer movements, key presses.
+- Send requests over the network to remote servers, download and upload files (so-called [AJAX](https://en.wikipedia.org/wiki/Ajax_(programming)) and [COMET](https://en.wikipedia.org/wiki/Comet_(programming)) technologies).
+- Get and set cookies, ask questions to the visitor, show messages.
+- Remember the data on the client-side (&quot;local storage&quot;).
+
