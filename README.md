@@ -29,7 +29,7 @@ ________________________________________________________________________________
 | read3  | [HTML Lists,Flow JS,CSS Box Model](201/class03.md)     |
 | read4  | [HTML Links, JS Functions, CSS Layout](201/class04.md) |
 | read5  | [HTML Images; CSS Color & Text](201/class05.md)        |
-| read6  | [](201/class06.md)                                     |
+| read6  | [Problem Domain, Objects, and the DOM](201/class06.md) |
 | read7  | [](201/class07.md)                                     |
 | read8  | [](201/class08.md)                                     |
 | read9  | [](201/class09.md)                                     |
