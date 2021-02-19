@@ -5,10 +5,11 @@ The best known form on the web is probably the search box that sits right in the
 Form Controls
 
 There are several types of form controls that you can use to collect information from visitors to your site.
+Basic Table Structure
 
 ![](201\pic\ww.png)
 
-Basic Table Structure
+
 
 ![](tta.png) 
 ![](201/pic/th.png)
