@@ -14,7 +14,7 @@ These type of error occurs during the runtime of the program, after it is interp
 Consider this code segment:
 
 
-![](201/cc.png)
+![](cc.png)
 
 Notice that there is no show function defined. This program will raise an error at runtime as the function which is not present is called, although the syntax is correct.
 
