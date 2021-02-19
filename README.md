@@ -32,8 +32,8 @@ ________________________________________________________________________________
 | read6  | [Problem Domain, Objects, and the DOM](201/class06.md)     |
 | read7  | [Object-Oriented Programming, HTML Tables](201/class07.md) |
 | read8  | [More CSS Layout](201/class08.md)                                         |
-| read9  | [](201/class09.md)                                         |
-| read0  | [](201/class10.md)                                         |
+| read9  | [Forms and JS Events](201/class09.md)                                         |
+| read10  | [JS Debugging](201/class10.md)                                         |
 | read1  | [](201/class11.md)                                         |
 | read12 | [](201/class12.md)                                         |
 | read10 | [](201/class13.md)                                         |
