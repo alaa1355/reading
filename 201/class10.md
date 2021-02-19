@@ -32,23 +32,9 @@ These type of errors are the most difficult to find. Consider a statement: &#39;
 
 In this method, an  **error event**  is fired when an error occurs. This method also works for those errors caused by external sources. Whenever an error is caught, this method tells the developer the line number at which the error has occurred, the file to which the error has occurred and displays a customized error message.
 
-Consider the following code segment:
 
-1.   \&lt;html\&gt;
-2.   \&lt;head\&gt;
-3.   \&lt;script type=&#39;&#39;text/javascript&#39;&#39;\&gt;
-4.     window.onerror = function (){
-5.     alert(&#39;&#39;An error has occurred.Please resolve&#39;&#39;);
-6.     }
-7.   \&lt;/script\&gt;
-8.   \&lt;/head\&gt;
-9.   \&lt;body\&gt;
-10.   \&lt;p\&gt;Click to see the result:\&lt;/p\&gt;
-11.   \&lt;form\&gt;
-12.   \&lt;input type =&#39;button&#39; value =&#39;Click&#39; onclick =&#39;myFunc();&#39;/\&gt;
-13.   \&lt;/form\&gt;
-14.   \&lt;/body\&gt;
-15.   \&lt;/html\&gt;
+
+
 
 When the button is clicked, the error message &#39;&#39;An error has occurred. Please resolve&#39;&#39; is displayed.
 
@@ -68,11 +54,9 @@ The  **RangeError**  object indicates an error when a value is not in the set or
 
 A RangeError is thrown when trying to pass a value as an argument to a function that does not allow a range that includes the value.
 
-This can be encountered when:
 
-- passing a value that is not one of the allowed string values to [String.prototype.normalize()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/normalize), or
-- when attempting to create an array of an illegal length with the [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) constructor, or
-- when passing bad values to the numeric methods [Number.prototype.toExponential()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toExponential), [Number.prototype.toFixed()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toFixed) or [Number.prototype.toPrecision()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toPrecision).
+
+
 
 ##
 # Code Debugging
@@ -105,7 +89,7 @@ With the debugger turned on, this code will stop executing before it executes th
 
 If you know that you may get an error, you can handle it gracefully using the try, catch, finally statements. Use them to give your users helpful feedback.
 
-![](201/pic/cc.png)
+
 
 # TRY
 
