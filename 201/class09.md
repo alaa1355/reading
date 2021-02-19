@@ -10,10 +10,10 @@ There are several types of form controls that you can use to collect information
 
 Basic Table Structure
 
-![](201/pic/tta.png) 
+![](tta.png) 
 ![](201/pic/th.png)
 
-![](RackMultipart20210219-4-1fd0f1k_html_e3f99d6a406b990c.png)
+
 
 1: Outlines When you hover over an element, a red outline will be drawn around it, showing you how much space the element
 
