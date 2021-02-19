@@ -6,7 +6,7 @@ Form Controls
 
 There are several types of form controls that you can use to collect information from visitors to your site.
 
-![](201/pic/ww.png)
+![](201\pic\ww.png)
 
 Basic Table Structure
 

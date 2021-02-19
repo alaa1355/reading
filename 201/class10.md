@@ -4,9 +4,6 @@ Syntax errors are the most common type of error that occurs in any programming l
 
 Consider this code segment:
 
-1.   \&lt;script type=&#39;&#39;text/javascript&#39;&#39;\&gt;
-2.     window.show(;
-3.   \&lt;/script\&gt;
 
 This program will raise an error as the closing bracket of the show function is missing.
 
@@ -16,9 +13,8 @@ These type of error occurs during the runtime of the program, after it is interp
 
 Consider this code segment:
 
-1.   \&lt;script type=&#39;&#39;text/javascript&#39;&#39;\&gt;
-2.     window.show();
-3.   \&lt;/script\&gt;
+
+![](201/pic/cc.png)
 
 Notice that there is no show function defined. This program will raise an error at runtime as the function which is not present is called, although the syntax is correct.
 
