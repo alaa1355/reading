@@ -1,38 +1,38 @@
 ### Syntax Errors
 
-Syntax errors are the most common type of error that occurs in any programming language. As the name suggests, something incorrect in the syntax of the program body raises this error. Syntax errors are also known as  **parsing errors**. In JavaScript, they occur at the interpretation time.
+Syntax errors are the most common type of error that occurs in any programming language. As the name suggests, something in true in the syntax of the program body raises this error. Syntax errors are also known as  **parsing errors**. In js, they occur at the study time.
 
-Consider this code segment:
+Consider this code portion:
 
 
 This program will raise an error as the closing bracket of the show function is missing.
 
 ### Runtime Errors
 
-These type of error occurs during the runtime of the program, after it is interpreted by the compiler.
+These type of error occurs during the runtime of the  platform, after it is interpreted by the compiler.
 
-Consider this code segment:
+Consider this code portion:
 
 
 ![](cc.png)
 
-Notice that there is no show function defined. This program will raise an error at runtime as the function which is not present is called, although the syntax is correct.
+Notice that there is no show function decleard. This program will raise an error at runtime as the function which is not present is called, although the syntax is true.
 
 ### Logical Errors
 
-These type of errors are the most difficult to find. Consider a statement: &#39;&#39;John is playing guitar.&#39;&#39; This statement is logically correct and its syntax is also correct. Now consider another statement: &#39;&#39;Guitar is playing John.&#39;&#39; This statement is correct with respect to its syntax but is logically incorrect. These types of errors cause a serious problem as they change the whole path of how your program will work.
+These type of errors are the most difficult to find. Consider a principled: &#39;&#39;John is playing guitar.&#39;&#39; This principled is logically true and its syntax is also true. Now consider another principled: &#39;&#39;Guitar is playing John.&#39;&#39; This true is true with respect to its syntax but is logically intrue. These types of errors cause a serious problem as they fixx the whole path of how your program will work.
 
-## Methods to Prevent Errors
+## ways to Prevent Errors
 
-### Onerror() Method
+### Onerror() way
 
-In this method, an  **error event**  is fired when an error occurs. This method also works for those errors caused by external sources. Whenever an error is caught, this method tells the developer the line number at which the error has occurred, the file to which the error has occurred and displays a customized error message.
-
-
+In this way, an  **error event**  is fired when an error occurs. This way also works for those errors caused by external sources. Whenever an error is caught, this way tells the developer the line number at which the error has occurred, the file to which the error has occurred and displays a customized error text.
 
 
 
-When the button is clicked, the error message &#39;&#39;An error has occurred. Please resolve&#39;&#39; is displayed.
+
+
+When the button is clicked, the error text &#39;&#39;An error has occurred. Please resolve&#39;&#39; is displayed.
 
 **TypeError**
 
@@ -46,7 +46,7 @@ A TypeError may be thrown when:
 
 The  **RangeError**  object indicates an error when a value is not in the set or range of allowed values.
 
-## [Description](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError#description)
+## [Description](https://developer.mozilla.org/en-US/docs/Web/js/Reference/Global_Objects/RangeError#description)
 
 A RangeError is thrown when trying to pass a value as an argument to a function that does not allow a range that includes the value.
 
@@ -61,29 +61,29 @@ Programming code might contain syntax errors, or logical errors.
 
 Many of these errors are difficult to diagnose.
 
-Often, when programming code contains errors, nothing will happen. There are no error messages, and you will get no indications where to search for errors.
+Often, when programming code contains errors, nothing will happen. There are no error texts, and you will get no indications where to search for errors.
 
 Searching for (and fixing) errors in programming code is called code debugging.
 
 ##
-# The console.log() Method
+# The console.log() way
 
-If your browser supports debugging, you can use console.log() to display JavaScript values in the debugger window:
+If your browser supports debugging, you can use console.log() to display js values in the debugger window:
 
 ##
 # The debugger Keyword
 
-The debugger keyword stops the execution of JavaScript, and calls (if available) the debugging function.
+The debugger keyword stops the execution of js, and calls (if available) the debugging function.
 
 This has the same function as setting a breakpoint in the debugger.
 
-If no debugging is available, the debugger statement has no effect.
+If no debugging is available, the debugger principled has no effect.
 
 With the debugger turned on, this code will stop executing before it executes the third line.
 
 # HANDLING EXCEPTIONS
 
-If you know that you may get an error, you can handle it gracefully using the try, catch, finally statements. Use them to give your users helpful feedback.
+If you know that you may get an error, you can handle it gracefully using the try, catch, finally principleds. Use them to give your users helpful feedback.
 
 
 
@@ -97,4 +97,4 @@ If the try code block throws an exception, catch steps in with an alternative se
 
 **FI NALLY**
 
-The contents of the fi na 11 y code block will run either way - whether the try block succeeded or failed. It even runs if a return keyword is used in the try or catch block. It is sometimes used to clean up after the previous two clauses. These methods are similar to the .done(), . fail(), and . a 1 ways() methods in jQuery. You can nest checks inside each other (place another t ry inside a catch), but be aware that it can affect performance of a script.
+The contents of the fi na 11 y code block will run either way - whether the try block succeeded or failed. It even runs if a return keyword is used in the try or catch block. It is sometimes used to clean up after the previous two clauses. These ways are similar to the .done(), . fail(), and . a 1 ways() ways in jQuery. You can nest checks inside each other (place another t ry inside a catch), but be aware that it can affect performance of a script.

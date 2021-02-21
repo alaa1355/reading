@@ -1,11 +1,11 @@
 # Forms
 
-The best known form on the web is probably the search box that sits right in the middle of Google&#39;s homepage.
+The best known form on the web is probably the search box that sits right in the middle of browsser&#39;s homepage.
 
 Form Controls
 
-There are several types of form controls that you can use to collect information from visitors to your site.
-Basic Table Structure
+we have several types of form controls that you can use to collect data from visitors to your link.
+Basic Table temple
 
 ![](ww.png)
 
@@ -16,8 +16,8 @@ Basic Table Structure
 
 
 
-1: Outlines When you hover over an element, a red outline will be drawn around it, showing you how much space the element
+1: Outlines When you hover over an portion, a red outline will be drawn around it, showing you how much space the portion
 
-2: Structure While you are hovering over an element, the structure will be shown at the top of the window. Here you can see the element has a class of completed, inside a with a class called to-do. The list is inside a element with an id of page, and this sits inside the and elements. This can be very helpful when writing CSS selectors to help you target the right element
+2: temple While you are hovering over an portion, the temple will be shown at the top of the window. Here you can see the portion has a set of completed, inside a with a set called to-do. The list is inside a portion with an id of page, and this sits inside the and portions. This can be very helpful when writing CSS select to help you target the right portion
 
-3: CSS styles When hovering over an element, click with your mouse to display the CSS. You will be shown the rules that apply to that element (and the line they are on). Above the rules, you can see the name of the style sheet (and the path to it). This helps check which styles are being applied to an element. You can use it on code for your own site or when you want to see what styles someone else is using on their site.
+3: CSS look When hovering over an portion, click with your mouse to display the CSS. You will be shown the rules that ask for to that portion (and the line they are on). Above the rules, you can see the name of the style sheet (and the path to it). This helps check which look are being applied to an portion. You can use it on code for your own link or when you want to see what look someone else is using on their link.
