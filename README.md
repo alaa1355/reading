@@ -34,8 +34,8 @@ ________________________________________________________________________________
 | read8  | [More CSS Layout](201/class08.md)                          |
 | read9  | [Forms and JS Events](201/class09.md)                      |
 | read10 | [JS Debugging](201/class10.md)                             |
-| read1  | [Audio, Video, Images](201/class11.md)                     |
-| read12 | [](201/class12.md)                                         |
+| read11 | [Audio, Video, Images](201/class11.md)                     |
+| read12 | [Chart.js, Canvas](201/class12.md)                         |
 | read10 | [](201/class13.md)                                         |
 | read11 | [](201/class14.md)                                         |
 | read12 | [](201/class15.md)                                         |
