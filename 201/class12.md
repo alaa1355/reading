@@ -1,98 +1,71 @@
-Charts are far better for displaying information visually than tables and have the added benefit that no one is ever going to press-gang them into use as a layout tool. They&#39;re easier to look at and convey information quickly, but they&#39;re not always simple to makes.
+Charts are far better for displaying information visually than tables and have the added benefit that no one is ever going to press-gang them into use as a layout tool. They re easier to look at and convey information quickly, but theyre not always simple to makes.
 
 ##
 #
  Creating a Chart
 
-It&#39;s simple to get started with Chart.js. All that&#39;s required is the script included in your page along with a single \&lt;canvas\&gt; node to render the chart-data.
+Its simple to get started with Chart.js. All thats required is the script included in your page along with a single canvas; node to render the chart-data.
 
 In this example, we makes a bar chart-data for a single informationset and render that in our page. You can see all the ways to use Chart.js in the [usage documentation](https://www.chartjs.org/docs/latest/getting-started/usage.html).
 
-\&lt;canvasid=&quot;myChart&quot;width=&quot;400&quot;height=&quot;400&quot;\&gt;\&lt;/canvas\&gt;
+canvasid=myChartwidth=400height=400;/canvas;
 
-\&lt;script\&gt;
+script;
 
-var ctx = document.getElementById(&#39;myChart&#39;).getContext(&#39;2d&#39;);
+var ctx = document.getElementById(myChart).getContext(2d);
 
 var myChart = new Chart(ctx, {
 
-type: &#39;bar&#39;,
+type: bar,
 
 information: {
 
-labels: [&#39;Red&#39;, &#39;Blue&#39;, &#39;Yellow&#39;, &#39;Green&#39;, &#39;Purple&#39;, &#39;Orange&#39;],
+labels: [Red, Blue, Yellow, Green, Purple, Orange],
 
 informationsets: [{
 
-label: &#39;# of Votes&#39;,
+label: # of Votes,
 
 information: [12, 19, 3, 5, 2, 3],
 
 backgroundColor: [
 
-&#39;rgba(255, 99, 132, 0.2)&#39;,
+rgba(255, 99, 132, 0.2),
 
-&#39;rgba(54, 162, 235, 0.2)&#39;,
+rgba(54, 162, 235, 0.2),
 
-&#39;rgba(255, 206, 86, 0.2)&#39;,
+rgba(255, 206, 86, 0.2),
 
-&#39;rgba(75, 192, 192, 0.2)&#39;,
+rgba(75, 192, 192, 0.2),
 
-&#39;rgba(153, 102, 255, 0.2)&#39;,
+rgba(153, 102, 255, 0.2),
 
-&#39;rgba(255, 159, 64, 0.2)&#39;
+rgba(255, 159, 64, 0.2)
 
 ],
 
 borderColor: [
 
-&#39;rgba(255, 99, 132, 1)&#39;,
+rgba(255, 99, 132, 1),
 
-&#39;rgba(54, 162, 235, 1)&#39;,
+rgba(54, 162, 235, 1),
 
-&#39;rgba(255, 206, 86, 1)&#39;,
+rgba(255, 206, 86, 1),
 
-&#39;rgba(75, 192, 192, 1)&#39;,
+rgba(75, 192, 192, 1),
 
-&#39;rgba(153, 102, 255, 1)&#39;,
+rgba(153, 102, 255, 1),
 
-&#39;rgba(255, 159, 64, 1)&#39;
+rgba(255, 159, 64, 1)
 
-],
 
-borderWidth: 1
 
-}]
 
-},
+## [The canvas; element](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage#the_%3Ccanvas%3E_element)
 
-options: {
+canvas id=tutorial width=150 height=150;/canvas;
 
-scales: {
-
-yAxes: [{
-
-ticks: {
-
-beginAtZero: true
-
-}
-
-}]
-
-}
-
-}
-
-});
-
-\&lt;/script\&gt;
-
-## [The \&lt;canvas\&gt; element](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage#the_%3Ccanvas%3E_element)
-
-\&lt;canvas id=&quot;tutorial&quot; width=&quot;150&quot; height=&quot;150&quot;\&gt;\&lt;/canvas\&gt;
-
-At first sight a [\&lt;canvas\&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas) looks like the [\&lt;img\&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img) element, with the only clear difference being that it doesn&#39;t have the src and alt attributes. Indeed, the \&lt;canvas\&gt; element has only two attributes, [width](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas#attr-width) and [height](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas#attr-height). These are both optional and can also be set using [DOM](https://developer.mozilla.org/en-US/docs/Glossary/DOM) [properties](https://developer.mozilla.org/en-US/docs/Web/API/HTMLCanvasElement). When no width and height attributes are specified, the canvas will initially be  **300 pixels**  wide and  **150 pixels**  high. The element can be sized arbitrarily by [CSS](https://developer.mozilla.org/en-US/docs/Glossary/CSS), but during rendering the image is scaled to fit its layout size: if the CSS sizing doesn&#39;t respect the ratio of the initial canvas, it will appear distorted.
+At first sight a [canvas](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas) looks like the [img](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img) element, with the only clear difference being that it doesnt have the src and alt attributes. Indeed, the canvaselement has only two attributes, [width](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas#attr-width) and [height](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas#attr-height). These are both optional and can also be set using [DOM](https://developer.mozilla.org/en-US/docs/Glossary/DOM) [properties](https://developer.mozilla.org/en-US/docs/Web/API/HTMLCanvasElement). When no width and height attributes are specified, the canvas will initially be  **300 pixels**  wide and  **150 pixels**  high. The element can be sized arbitrarily by [CSS](https://developer.mozilla.org/en-US/docs/Glossary/CSS), but during rendering the image is scaled to fit its layout size: if the CSS sizing doesnt respect the ratio of the initial canvas, it will appear distorted.
 
 # doing shapes with canvas
 
