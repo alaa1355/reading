@@ -1,83 +1,90 @@
 ##
 
 
-##
-# Introduction
+Introduction
 
-Unless you are developing software which _directly_ manipulates a real-world object, such as process control, robotics, avionics or missile guidance systems, then some of the properties and methods which apply to that real-world object may be completely irrelevant in your software representation. If, for example, you are developing an enterprise application such as Sales Order Processing which deals with entities such as Products, Customers and Orders, you are only manipulating the _information_ about those entities and not the actual entities themselves.
+when you are developing software which directly manipulates a real-world object, such as process control, robotics, avionics or missile guidance systems, then some of the method ann proccess which apply to that real-world object may be completely irrelevant in your software representation. If, for ex, you are developing an enterprise application such as Sales Order Processing which deals with entities such as Products, Customers and Orders, you are only manipulating the information about those entities and not the actual entities themselves.
 
-##
-# Table Object
+ (Links to an external site.)Table Object
 
-The Table object represents an HTML \&lt;table\&gt; element.
+The Table object represents an HTML &amp;lt;table&amp;gt; element.
 
-### Access a Table Object
+ (Links to an external site.)Access a Table Object
 
-You can access a \&lt;table\&gt; element by using getElementById():
+You can access a &amp;lt;table&amp;gt; element by using getElementById():
 
-### Example
+ (Links to an external site.)ex
 
 var x = document.getElementById(&quot;myTable&quot;);
 
-### Create a Table Object
+ (Links to an external site.)Create a Table Object
 
-You can create a \&lt;table\&gt; element by using the document.createElement() method:
+You can create a &amp;lt;table&amp;gt; element by using the document.createElement() method:
 
-### Example
+ (Links to an external site.)ex
 
 var x = document.createElement(&quot;TABLE&quot;);
 
-##
+ (Links to an external site.)Table Objecn proccess
 
+Method  Description
 
-##
+createCaption() (Links to an external site.)    doing an empty &amp;lt;caption&amp;gt; element and adds it to the table
 
+createTFoot() (Links to an external site.)  doing an empty &amp;lt;tfoot&amp;gt; element and adds it to the table
 
-##
-# Table Object Methods
+createTHead() (Links to an external site.)  doing an empty &amp;lt;thead&amp;gt; element and adds it to the table
 
-| **Method**                                                                     | **Description**                                                     |
-|--------------------------------------------------------------------------------|---------------------------------------------------------------------|
-| [createCaption()](https://www.w3schools.com/jsref/met_table_createcaption.asp) | Creates an empty \&lt;caption\&gt; element and adds it to the table |
-| [createTFoot()](https://www.w3schools.com/jsref/met_table_createtfoot.asp)     | Creates an empty \&lt;tfoot\&gt; element and adds it to the table   |
-| [createTHead()](https://www.w3schools.com/jsref/met_table_createthead.asp)     | Creates an empty \&lt;thead\&gt; element and adds it to the table   |
-| [deleteCaption()](https://www.w3schools.com/jsref/met_table_deletecaption.asp) | Removes the first \&lt;caption\&gt; element from the table          |
-| [deleteRow()](https://www.w3schools.com/jsref/met_table_deleterow.asp)         | Removes a row (\&lt;tr\&gt;) from the table                         |
-| [deleteTFoot()](https://www.w3schools.com/jsref/met_table_deletetfoot.asp)     | Removes the \&lt;tfoot\&gt; element from the table                  |
-| [deleteTHead()](https://www.w3schools.com/jsref/met_table_deletethead.asp)     | Removes the \&lt;thead\&gt; element from the table                  |
-| [insertRow()](https://www.w3schools.com/jsref/met_table_insertrow.asp)         | Creates an empty \&lt;tr\&gt; element and adds it to the table      |
+deleteCaption() (Links to an external site.)    Removes the first &amp;lt;caption&amp;gt; element from the table
 
-**Domain modeling**
+deleteRow() (Links to an external site.)    Removes a row (&amp;lt;tr&amp;gt;) from the table
+
+deleteTFoot() (Links to an external site.)  Removes the &amp;lt;tfoot&amp;gt; element from the table
+
+deleteTHead() (Links to an external site.)  Removes the &amp;lt;thead&amp;gt; element from the table
+
+insertRow() (Links to an external site.)    doing an empty &amp;lt;tr&amp;gt; element and adds it to the table
+
+Domain modeling
 
 Domain modeling is the process of creating a conceptual model for a specific problem. And a domain model that&#39;s articulated well can verify and validate your understanding of that problem.
 
 Here&#39;s some tips to follow when building your own domain models.
 
-1. When modeling a single entity that&#39;ll have many instances, build self-contained objects with the same attributes and behaviors.
-2. Model its attributes with a constructor function that defines and initializes properties.
-3. Model its behaviors with small methods that focus on doing one job well.
-4. Create instances using the new keyword followed by a call to a constructor function.
-5. Store the newly created object in a variable so you can access its properties and methods from  **outside**.
-6. Use the this variable within methods so you can access the object&#39;s properties and methods from  **inside**.
+When modeling a single entity that&#39;ll have many instances, build self-contained objects with the same attributes and behaviors.
 
-# **JavaScript **** Object Methods**
+Model its attributes with a constructor function that defines and initializes method.
 
-## The this Keyword
+Model its behaviors with smaln proccess that focus on doing one job well.
 
-In a function definition, this refers to the &quot;owner&quot; of the function. In the example above, this is the  **person object**  that &quot;owns&quot;the  **fullName**  function.
+Create instances using the new keyword followed by a call to a constructor function.
 
-In other words,  **this.firstName**  means the  **firstName**  property of  **this object**.Read more about the this keyword at [JS this Keyword](https://www.w3schools.com/js/js_this.asp).
+Store the newly created object in a variable so you can access its method ann proccess from outside.
 
-# JavaScript Methods
+Use the this variable within proccess so you can access the object&#39;s method ann proccess from inside.
 
-JavaScript methods are actions that can be performed on objects.
+ (Links to an external site.)JavaScript \*\*\*\* Objecn proccess
 
-A JavaScript  **method**  is a property containing a  **function definition**.
+ (Links to an external site.)The this Keyword
 
-| **Property** | **Value** |
-|--------------|-----------|
-| firstName    | John      |
-| lastName     | Doe       |
-| age          | 50        |
-| eyeColor     | blue      |
-| fullName     | function() {return this.firstName + &quot; &quot; + this.lastName;} |
+In a function declaration, this refers to the &quot;owner&quot; of the function. In the ex above, this is the person object that &quot;owns&quot;the fullName function.
+
+In other words, this.name means the name property of this object.Read more about the this keyword at JS this Keyword (Links to an external site.).
+
+ (Links to an external site.)JavaScripn proccess
+
+JavaScripn proccess are something that can be performed on objects.
+
+A JavaScript method is a property containing a function declaration.
+
+Property    Value
+
+name    John
+
+lastName    Doe
+
+age 50
+
+eyeColor    blue
+
+fullName    function() {return this.name + &quot; &quot; + this.lastName;}|
