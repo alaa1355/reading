@@ -1,6 +1,7 @@
 
 
-
+My name is Alla ALbadarin, I have completed my bachelor degree at Zarqa Private University and my master degree at Jordan University of Science and Technology.. During my master study, I have investigated the miscibility of a hydrocarbon binary mixtures as well as their structure using Molecular Dynamic simulation supervised by Prof. Abdalla Obeidat.
+Working in two different universities gained me an extensive experience of doing experimental and theoretical research. In 2019 I was a research assistant at Jordan University
 <img align="right" width="10%" src="11.jpg"> 
 
 ______________________________________________________________________________________________________________
