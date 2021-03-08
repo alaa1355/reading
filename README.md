@@ -7,13 +7,13 @@ Working in two different universities gained me an extensive experience of doing
 ______________________________________________________________________________________________________________
 ##### 102
 
-| name   | URL (102)                        |
-|--------|----------------------------------|
-| read01 | [introduction to myself](1.md)   |
-| read02 | [Mindset growth](22.md)          |
-| read03 | [ch 18 Js](3.md)                 |
-| read04 | [ch 1 Js](4.md)                  |
-| read05 | [Js loops and conditions](55.md) |
+| name   | URL (102)                               |
+|--------|-----------------------------------------|
+| read01 | [introduction to myself](102/class1.md) |
+| read02 | [Mindset growth](22.md)                 |
+| read03 | [ch 18 Js](3.md)                        |
+| read04 | [ch 1 Js](4.md)                         |
+| read05 | [Js loops and conditions](55.md)        |
 ______________________________________________________________________________________________________________
 
 
