@@ -1,12 +1,5 @@
 
-## We will find the correct method later, now we will try all the ***wrong options.***  
-<img align="right" width="10%" src="11.jpg"> 
 
-
-
-
-### Software Development courses.          
-####  " Yahya group"
 ____________________________________________________________________________________________________________________
 ##### 102
 
